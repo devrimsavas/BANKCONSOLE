@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "Name": "George West",
+    "AccountId": 1234567,
+    "BirthDay": "1990-01-01T00:00:00",
+    "Balance": 1500.75
+  },
+  {
+    "Id": 2,
+    "Name": "Emma Stonefield",
+    "AccountId": 2345678,
+    "BirthDay": "1985-06-15T00:00:00",
+    "Balance": 8920.0
+  },
+  {
+    "Id": 3,
+    "Name": "Leon Vargas",
+    "AccountId": 3456789,
+    "BirthDay": "1992-10-22T00:00:00",
+    "Balance": 342.5
+  },
+  {
+    "Id": 4,
+    "Name": "Isabella Cho",
+    "AccountId": 4567890,
+    "BirthDay": "1999-12-03T00:00:00",
+    "Balance": 12800.2
+  },
+  {
+    "Id": 5,
+    "Name": "Tomislav Petrović",
+    "AccountId": 5678901,
+    "BirthDay": "1980-03-29T00:00:00",
+    "Balance": 75.0
+  },
+  {
+    "Id": 6,
+    "Name": "Arjun Mehra",
+    "AccountId": 6789012,
+    "BirthDay": "1994-07-18T00:00:00",
+    "Balance": 4300.0
+  },
+  {
+    "Id": 7,
+    "Name": "Chloe Dubois",
+    "AccountId": 7890123,
+    "BirthDay": "1987-09-05T00:00:00",
+    "Balance": 659.95
+  },
+  {
+    "Id": 8,
+    "Name": "Mateo Rodríguez",
+    "AccountId": 8901234,
+    "BirthDay": "1991-11-28T00:00:00",
+    "Balance": 320.4
+  },
+  {
+    "Id": 9,
+    "Name": "Lina Schmidt",
+    "AccountId": 9012345,
+    "BirthDay": "1983-02-14T00:00:00",
+    "Balance": 10200.0
+  },
+  {
+    "Id": 10,
+    "Name": "Yuki Nakamura",
+    "AccountId": 1122334,
+    "BirthDay": "1996-08-21T00:00:00",
+    "Balance": 487.3
+  }
+]

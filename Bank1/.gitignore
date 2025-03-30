@@ -1,0 +1,52 @@
+# Build output
+/bin/
+/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.tmp
+
+# Dotnet CLI
+project.lock.json
+project.fragment.lock.json
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Environment files
+.env
+
+# JSON file that may store secrets (optional, if needed)
+appsettings.Development.json
+
+# MacOS & Linux
+.DS_Store
+*.swp
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
