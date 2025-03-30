@@ -52,6 +52,58 @@ This project is built as a **learning resource** for beginners in:
 3. Run the app
    I recommend you open a seperate, clean terminal by using cmd command to see full functionality of this program
 
+
+# PART 2 STUDENT TASKS 
+This project can be **enhanced and extended** by students who want to practice their skills with:
+
+-  C# classes & objects  
+-  File operations (reading/writing JSON)  
+-  Simple banking logic  
+-  Real-world thinking in programming  
+
+---
+
+###  Tasks to Complete
+
+1. ** Save New Customers to File**  
+   Currently, the app only loads customers from `customers.json`.  
+   ➤ Your task is to **write back to the file** whenever a new customer is added, so data is not lost between runs.
+
+2. ** Save Transaction History to File**  
+   Right now, deposits/withdrawals are only in memory.  
+   ➤ Add functionality to **save transactions** to disk and load them on startup.
+
+3. ** Send Money Between Customers**  
+   Add a feature where one customer can send money to another using their **account number**.  
+   - If both are in **the same bank**, it's free.  
+   - If the receiver is with a **different bank**, deduct **1% fee** from the sender.  
+   ➤ Tip: This requires finding customers by account ID, not just customer ID!
+
+4. ** Use Account Numbers for Transfers**  
+   When sending money, customers should **enter the account number** of the receiver — not the customer ID.  
+   ➤ Add validations to make sure account numbers are typed correctly and actually exist.
+
+---
+
+###  Extra (Optional)
+
+- Add login system (by ID or PIN)
+- Export customer and transaction data to a `.csv`
+- Add a menu option to view total bank funds 💰
+
+---
+
+ These tasks are great for improving your understanding of:
+- Classes and encapsulation
+- Data serialization
+- Real-world logic & user flows
+- Error handling and validation
+
+Good luck, and happy hacking! 💻🎉
+
+
+
+
 ## Screenshots
 
 ![Bank Main ](/screenshots/bank1.png)
