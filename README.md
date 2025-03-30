@@ -54,6 +54,6 @@ This project is built as a **learning resource** for beginners in:
 
 ## Screenshots
 
-![Bank Main ](/Screenshots/bank1.png)
-![Customer Detail ](/Screenshots/bank2.png)
-![All Customers ](/Screenshots/bank3.png)
+![Bank Main ](/screenshots/bank1.png)
+![Customer Detail ](/screenshots/bank2.png)
+![All Customers ](/screenshots/bank3.png)
