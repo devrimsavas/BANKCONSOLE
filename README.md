@@ -41,7 +41,7 @@ This project is built as a **learning resource** for beginners in:
 1. Clone the repo
 
    ```bash
-   git clone https://github.com/your-username/west-city-bank.git
+   git clone https://github.com/devrimsavas/BANKCONSOLE/tree/main/Bank1
 
    ```
 
